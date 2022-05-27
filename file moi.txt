@@ -1,0 +1,6 @@
+Vậy GIT là gì? Hiểu một cách đơn giản, GIT là hệ thống quản lý các phiên bản dưới dạng phân tán. Đây là hệ thống quản lý phổ biến nhất hiện nay. GIT là một phiên bản của Distributed Version Control System – DVCS hay còn gọi là VCS. Sử dụng GIT sẽ đem tới cho các lập trình viên một kho lưu trữ, trong đó chứa đầy đủ các lịch sử thay đổi của hệ thống. 
+
+Cách thức hoạt động của Git 
+GIT là một VCS. Tuy nhiên, so với các VCS thông thường, GIT cũng có một số điểm khác biệt. Trong đó, điểm khác biệt nổi bật nhất của GIT đó là cách đọc và lưu trữ dữ liệu của phần mềm này. 
+
+Về mặt khái niệm, hầu hết các hệ thống lưu trữ thông tin bằng cách thay đổi dựa trên file và lưu trữ thông tin dưới dạng danh sách. Hệ thống này sẽ tổng hợp và cập nhật thông tin, sau đó lưu trữ dưới dạng một tập hợp danh sách. Các file có thể thay đổi theo thời gian. 
